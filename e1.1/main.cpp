@@ -1,15 +1,10 @@
-//
-//  main.cpp
-//  e1.1
-//
-//  Created by Sergio campos on 5/19/19.
-//  Copyright © 2019 Sergio campos. All rights reserved.
-//
-
+//• E1.1    Write a program that prints a greeting of your choice, perhaps in a language other than English.
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+int main()
+{
+    cout << " Greetings dumbass" << endl;
     return 0;
 }
